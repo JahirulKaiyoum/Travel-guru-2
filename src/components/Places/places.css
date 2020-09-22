@@ -1,0 +1,23 @@
+.place-box {
+    position: relative; 
+}
+.place-box:hover{
+text-decoration: none;
+border: 5px solid gold;
+border-radius:10px;
+
+
+}
+
+.place-box h2{
+    position: absolute;
+    left: 40px;
+    top:250px;
+    margin: 0 auto;
+    color: white;
+
+} 
+
+/* .place-box img{
+    position: relative;
+} */

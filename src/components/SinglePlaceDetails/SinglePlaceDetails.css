@@ -1,0 +1,28 @@
+.bookingbtn{
+    width: 100%;
+}
+.description-details{
+
+margin-top:150px;
+
+}
+
+.form-design{
+    border: 2px solid#007bff;
+    padding: 20px;
+    margin-bottom: 20px;
+    margin-top:100px;
+    border-radius:10px;
+    background-color:white;
+}
+
+.places-section{
+    padding-top: 100px;
+    padding-bottom:80px;
+    background-image: url('../../images/Rectangle\ 1.png');
+    background-size: cover;
+    background-color: black;
+    
+    
+
+}

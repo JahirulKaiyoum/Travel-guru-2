@@ -1,0 +1,19 @@
+.places-section{
+    padding-top: 170px;
+    padding-bottom:80px;
+    background-image: url('../../images/Rectangle\ 1.png');
+    background-size: cover;
+    background-color: black;
+    
+    
+
+}
+
+.place-description{
+    padding-top:50px;
+    color:white;
+}
+.place-description h1{
+   font-size:50px;
+
+}
